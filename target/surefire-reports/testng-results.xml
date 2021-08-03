@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.main.Tests.GoogleSearchTest" duration-ms="39341" started-at="2021-08-03T20:58:51 IST" finished-at="2021-08-03T20:59:30 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="39341" started-at="2021-08-03T20:58:51 IST" finished-at="2021-08-03T20:59:30 IST">
+      <class name="com.main.Tests.GoogleSearchTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.main.Tests.GoogleSearchTest@5a8e6209]" name="beforeClass" is-config="true" duration-ms="764" started-at="2021-08-03T20:58:51 IST" finished-at="2021-08-03T20:58:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.main.Tests.GoogleSearchTest@5a8e6209]" name="setup" is-config="true" duration-ms="2745" started-at="2021-08-03T20:58:51 IST" finished-at="2021-08-03T20:58:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleSearch(java.util.Map)[pri:0, instance:com.main.Tests.GoogleSearchTest@5a8e6209]" name="googleSearch" duration-ms="16924" started-at="2021-08-03T20:58:54 IST" data-provider="data-provider" finished-at="2021-08-03T20:59:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ContentToSearch=fiserv, VerifyLink=https://www.fiserv.com/, LinkNumber=3, SearchEngineURL=https://www.google.com, Test ID=GS-1}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.main.Tests.GoogleSearchTest@5a8e6209]" name="teardown" is-config="true" duration-ms="803" started-at="2021-08-03T20:59:11 IST" finished-at="2021-08-03T20:59:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.main.Tests.GoogleSearchTest@5a8e6209]" name="setup" is-config="true" duration-ms="1787" started-at="2021-08-03T20:59:12 IST" finished-at="2021-08-03T20:59:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleSearch(java.util.Map)[pri:0, instance:com.main.Tests.GoogleSearchTest@5a8e6209]" name="googleSearch" duration-ms="15575" started-at="2021-08-03T20:59:14 IST" data-provider="data-provider" finished-at="2021-08-03T20:59:29 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{ContentToSearch=HCL, VerifyLink=https://www.hcltech.com/, LinkNumber=4, SearchEngineURL=https://www.google.com, Test ID=GS-2}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearch -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.main.Tests.GoogleSearchTest@5a8e6209]" name="teardown" is-config="true" duration-ms="685" started-at="2021-08-03T20:59:29 IST" finished-at="2021-08-03T20:59:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.main.Tests.GoogleSearchTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.main.Tests.GoogleSearchTest -->
+</testng-results>

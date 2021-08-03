@@ -1,0 +1,37 @@
+58-03-2021 20:58:57 INFO  [main] Log :12 - waiting for page to load..
+  58-03-2021 20:58:57 INFO  [main] Log :12 - Page loaded Successfully
+  58-03-2021 20:58:57 INFO  [main] Log :12 - Search Text exist in Current URL
+  58-03-2021 20:58:57 INFO  [main] Log :12 - waiting for element to visible..
+  58-03-2021 20:58:57 INFO  [main] Log :12 - element is visible..
+  58-03-2021 20:58:57 INFO  [main] Log :12 - Successfully Enter the Search Text i.e [fiserv]
+  59-03-2021 20:59:00 INFO  [main] Log :12 - waiting for search results..
+  59-03-2021 20:59:00 INFO  [main] Log :12 - Search Text exist in Current URL
+  59-03-2021 20:59:11 ERROR [main] Log :24 - Exception occurred while getting current URL:Expected condition failed: waiting for element ([[ChromeDriver: chrome on WINDOWS (556dd61a72d8db26a34f90826650393f)] -> xpath: //div[@id='result-stats']]) to be selected (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5SVD3IG', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\nikhi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:61568}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 556dd61a72d8db26a34f90826650393f
+  59-03-2021 20:59:11 INFO  [main] Log :12 - Search Text exist in Current URL
+  59-03-2021 20:59:11 INFO  [main] Log :12 - Search Text exist in Current URL
+  59-03-2021 20:59:11 INFO  [main] Log :12 - Search Result Link :https://www.fiserv.com/
+  59-03-2021 20:59:11 INFO  [main] Log :12 - Successfully found expected result link :https://www.fiserv.com/
+  59-03-2021 20:59:17 INFO  [main] Log :12 - waiting for page to load..
+  59-03-2021 20:59:17 INFO  [main] Log :12 - Page loaded Successfully
+  59-03-2021 20:59:17 INFO  [main] Log :12 - Search Text exist in Current URL
+  59-03-2021 20:59:17 INFO  [main] Log :12 - waiting for element to visible..
+  59-03-2021 20:59:17 INFO  [main] Log :12 - element is visible..
+  59-03-2021 20:59:17 INFO  [main] Log :12 - Successfully Enter the Search Text i.e [HCL]
+  59-03-2021 20:59:19 INFO  [main] Log :12 - waiting for search results..
+  59-03-2021 20:59:19 INFO  [main] Log :12 - Search Text exist in Current URL
+  59-03-2021 20:59:29 ERROR [main] Log :24 - Exception occurred while getting current URL:Expected condition failed: waiting for element ([[ChromeDriver: chrome on WINDOWS (69d19f582ffecc7b52e849b24b49b3f9)] -> xpath: //div[@id='result-stats']]) to be selected (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-5SVD3IG', ip: '192.168.1.2', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_301'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\nikhi\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:53513}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 69d19f582ffecc7b52e849b24b49b3f9
+  59-03-2021 20:59:29 INFO  [main] Log :12 - Search Text exist in Current URL
+  59-03-2021 20:59:29 INFO  [main] Log :12 - Search Text exist in Current URL
+  59-03-2021 20:59:29 INFO  [main] Log :12 - Search Result Link :https://www.hcltech.com/
+  59-03-2021 20:59:29 INFO  [main] Log :12 - Successfully found expected result link :https://www.hcltech.com/
+  
